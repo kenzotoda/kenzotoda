@@ -1,6 +1,8 @@
-## Olá! eu sou o Kenzo Toda, desenvolvedor web!
+## Olá! me chamo Kenzo Toda e sou Web Developer!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenzotoda)](https://github.com/anuraghazra/github-readme-stats)
+[![Kenzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenzotoda&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenzotoda&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Kenzo-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
